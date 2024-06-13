@@ -14,7 +14,7 @@
 
 #                                     Introduction
 # -Analysis: Exploring Airbnb guest data to get interesting insights and to answer business questions.
-# -Data: Dataset download link: https://weclouddata.s3.amazonaws.com/datasets/hotel/airbnb/airbnb.zip
+# -Data: Dataset download link: https://please_request_for _access.zip
 # -Tools: MySQL (table structure as shown in the tutorial below)
 ########################################################################################################################
 SHOW DATABASES;
