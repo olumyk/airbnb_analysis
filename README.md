@@ -1,7 +1,7 @@
 
 # Airbnb Guest Data Exploration Project
 
-This project is a part of the term work towards the completion of the requirements for earning a postgraduate degree in Applied Data Science and Big Data at cloudData. The main objective is to explore Airbnb guest data to derive interesting insights and answer relevant business questions.
+This project is a part of the term work towards the completion of the requirements for earning a postgraduate degree in Applied Data Science and Big Data at weclouddata. The main objective is to explore Airbnb guest data to derive interesting insights and answer relevant business questions.
 
 ## Overview
 
