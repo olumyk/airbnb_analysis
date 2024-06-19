@@ -23,9 +23,9 @@ The repository contains the following files:
 
 To replicate the analysis and explore the project:
 
-1. **Download Data**: Obtain the Airbnb guest data from the provided WeCloudData link.
-2. **Database Setup**: Execute the SQL scripts provided in the `scripts/` directory to set up the database and tables using DataGrip or any MySQL-compatible tool.
-3. **Run Analysis**: Execute the SQL scripts in the `scripts/` directory to perform analysis and answer business questions.
+1. **Download Data**: Obtain the Airbnb guest data from the provided link.
+2. **Database Setup**: Execute the SQL scripts provided in the `airbnb_database_table` directory to set up the database and tables using DataGrip or any MySQL-compatible tool.
+3. **Run Analysis**: Execute the SQL scripts in the `airbnb_analysis` directory to perform analysis and answer business questions.
 
 ## Business Questions
 
